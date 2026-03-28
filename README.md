@@ -114,14 +114,14 @@ The analysis covers the full pipeline — from raw SQL extraction to interactive
 ```
 Northwind-Revenue-Insights/
 │
-├── data/                   # Raw and cleaned datasets
-├── sql/
-│   └── northwind_queries.sql
+├── data/
+│   └── northwind_2006.sql
 ├── power_bi/
-│   └── northwind_dashboard.pbix
-├── assets/
-│   ├── dashboard_preview.png
+│   └── dashboard_preview.png
 │   └── model_view.png
+│   └── northwind_dashboard.pbix
+├── sql/
+│   ├── northwind_queries.sql
 └── README.md
 ```
 
