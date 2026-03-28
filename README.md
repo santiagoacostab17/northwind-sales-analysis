@@ -41,7 +41,6 @@ The analysis covers the full pipeline — from raw SQL extraction to interactive
 | KPI | Value |
 |---|---|
 | Total Revenue | $13M |
-| Total Orders | — |
 | Top 3 Products Revenue Share | ~64% |
 | Leading Categories | Beverages & Seafood |
 | Employees Analyzed | Full sales team |
